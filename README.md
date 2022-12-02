@@ -1,0 +1,1 @@
+# az-bulk-aad-operations
