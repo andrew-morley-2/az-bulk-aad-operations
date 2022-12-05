@@ -6,7 +6,7 @@
  --!>
 
 <h2>Description</h2>
-Azure Active Directory (AD) is often a critical component in many cloud-based Azure solutions. With Azure AD you have a centralized identity and access management platform, which helps for much more than simply storing user details and credentials. In this project, we'll walk through bulk operations that can be performed within the Azure Portal, to help streamline the management of user accounts and security groups.
+Azure Active Directory (AD) is often a critical component in many cloud-based Azure solutions. With Azure AD you have a centralized identity and access management platform, which helps for much more than simply storing user details and credentials. In this lab, we'll walk through bulk operations that can be performed within the Azure Portal, to help streamline the management of user accounts and security groups.
 <br />
 <br />
 Consider the following scenario:
